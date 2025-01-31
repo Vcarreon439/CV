@@ -1,8 +1,0 @@
-{
-  "name": "victor-carreon-cv",
-  "version": "1.0.0",
-  "scripts": {
-    "build": "mkdir -p dist && cp -R *.html css/ js/ dist/",  // Copy files to a `dist` folder
-    "deploy": "echo 'Deploying static website...'"
-  }
-}
