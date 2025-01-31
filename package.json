@@ -1,0 +1,8 @@
+{
+  "name": "Victor Carreon CV",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'Building static website... (no actual build needed)'",
+    "deploy": "echo 'Deploying static website...'"
+  }
+}
